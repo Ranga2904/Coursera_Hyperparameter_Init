@@ -1,0 +1,2 @@
+# Coursera_Hyperparameter_Init
+Hyperparameter Initialization programming Assignment from Coursera's Deep Learning Specialization
